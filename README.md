@@ -22,7 +22,7 @@
 
 # EasyAta
 <p align="center">
- <img src='https://i.imgur.com/Zn4ICGa.png'> </p>
+ <img src='https://i.imgur.com/Zn4ICGa.png' width="300"> </p>
 
 O EasyAta é um sistema de Gestão de Atas de Reunião com funcionalidades de cadastro, controle de acesso, geração e monitoramento de ata de reunião e assinatura digital.
 Entregamos ao cliente um facilitador que permitirá a criação e o registro de atas, permitindo que todas as informações relevantes da reunião sejam armazenadas de maneira organizada, limpa e claro de fácil acesso para os proprietários deste documento. Com um controle de acesso portando restrições e privilégios aos níveis de usuários o EasyAta lhe oferece segurança no monitoramento e gestão dos dados levantados e registrados em sua reunião.
@@ -78,7 +78,6 @@ Entregamos ao cliente um facilitador que permitirá a criação e o registro de 
 |  Usuário poderá pedir a revisão de uma ata existente, devendo informar o assunto da revisão Responsável da Revisão e Prazo da Revisão. Revisões pode ser incluídas, alteradas e excluídas quantas vezes forem necessárias| OKAY |
 
 
-
 <hr>
 
 # 📓Documentação
@@ -132,3 +131,17 @@ $ sudo apt install oracle-java15-installer
         
   </ul>
 </ul>
+
+# Vídeo demonstrativo
+
+
+
+<p align="center">
+ <a href='https://www.youtube.com/watch?v=uHy2lCZcs0I'>
+ <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LHLGaKspAlyfLaWvkYTVUsece4b8pqMzKGRr1cuF_hO0cJqwVyQA22-4rKtEP-623A&usqp=CAU" width="700"> </a>
+</p>
+
+
+
+
+
